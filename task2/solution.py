@@ -181,6 +181,6 @@ def main(url: str = 'https://ru.wikipedia.org/wiki/Категория:Живот
 
 
 if __name__ == '__main__':
-    URL = 'https://ru.wikipedia.org/wiki/Категорfия:Животные_по_алфавиту'
+    URL = 'https://ru.wikipedia.org/wiki/Категория:Животные_по_алфавиту'
     FILE_NAME = 'beasts.csv'
     main(URL, FILE_NAME)
